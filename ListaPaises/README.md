@@ -6,4 +6,4 @@ A partir del fichero XML listadepaises.xml obtener la siguiente información:
 * Contar información: Mostrar la cantidad de países de los que tenemos información.
 * Buscar o filtrar información: Pedir por teclado un país y mostrar el tipo de sistema político que tiene y su idioma.
 * Buscar información relacionada: Pedir por teclado un idioma y mostrar los países en los que se habla.
-* Acerca de la moneda: Pedir por teclado una moneda, y mostrar los países en los que se utiliza. Además, que muestre su superficie y su idioma.
+* Acerca de la moneda: Pedir por teclado una moneda, y mostrar los países en los que se utiliza. Además, que muestre su superficie(km²) y su idioma.
