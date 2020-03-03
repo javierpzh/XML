@@ -7,29 +7,29 @@
       <pais>Suiza</pais>
       <pais>Inglaterra</pais>
     </continente>
-    <continente nombre="América">
-      <pais>México</pais>
+    <continente nombre="America">
+      <pais>Mexico</pais>
       <pais>Argentina</pais>
       <pais>Uruguay</pais>
       <pais>Brasil</pais>
     </continente>
     <continente nombre="Asia">
       <pais>China</pais>
-      <pais>Japón</pais>
+      <pais>Japon</pais>
       <pais>Mongolia</pais>
-      <pais>República de Filipinas</pais>
+      <pais>Republica de Filipinas</pais>
     </continente>
-    <continente nombre="África">
+    <continente nombre="Africa">
       <pais>Argelia</pais>
-      <pais>Etiopía</pais>
+      <pais>Etiopia</pais>
       <pais>Nigeria</pais>
       <pais>Senegal</pais>
     </continente>
-    <continente nombre="Oceanía">
+    <continente nombre="Oceania">
       <pais>Australia</pais>
       <pais>Nueva Zelanda</pais>
       <pais>Estados Federados de Micronesia</pais>
-      <pais>Estado Independiente de Papúa Nueva Guinea</pais>
+      <pais>Estado Independiente de Papua Nueva Guinea</pais>
     </continente>
 
   </continentes>
@@ -45,22 +45,22 @@
       <sistema>República</sistema>
       <superficie>675417</superficie>
       <moneda>Euro</moneda>
-      <moneda antigua="antigua">Franco francés</moneda>
-      <idioma>Francés</idioma>
+      <moneda antigua="antigua">Franco frances</moneda>
+      <idioma>Frances</idioma>
     </pais>
     <pais nombre="Suiza">
       <sistema>República</sistema>
       <superficie>41290</superficie>
       <moneda>Franco suizo</moneda>
-      <idioma>Francés</idioma>
+      <idioma>Frances</idioma>
     </pais>
     <pais nombre="Inglaterra">
       <sistema>Monarquía constitucional</sistema>
       <superficie>130395</superficie>
       <moneda>Libra esterlina</moneda>
-      <idioma>Inglés</idioma>
+      <idioma>Ingles</idioma>
     </pais>
-    <pais nombre="México">
+    <pais nombre="Mexico">
       <sistema>República</sistema>
       <superficie>1972550</superficie>
       <moneda>Peso mejicano</moneda>
@@ -82,7 +82,7 @@
       <sistema>República federal presidencial</sistema>
       <superficie>8,515 millones</superficie>
       <moneda>Real</moneda>
-      <idioma>Portugués</idioma>
+      <idioma>Portugues</idioma>
     </pais>
     <pais nombre="China">
       <sistema>República</sistema>
@@ -90,11 +90,11 @@
       <moneda>Renminbi</moneda>
       <idioma>Chino</idioma>
     </pais>
-    <pais nombre="Japón">
+    <pais nombre="Japon">
       <sistema>Monarquía Institucional</sistema>
       <superficie>377975</superficie>
       <moneda>Yen</moneda>
-      <idioma>Japonés</idioma>
+      <idioma>Japones</idioma>
     </pais>
     <pais nombre="Mongolia">
       <sistema>República unitaria</sistema>
@@ -102,7 +102,7 @@
       <moneda>Tugrik</moneda>
       <idioma>Mongol</idioma>
     </pais>
-    <pais nombre="República de Filipinas">
+    <pais nombre="Republica de Filipinas">
       <sistema>República presidencialista</sistema>
       <superficie>300000</superficie>
       <moneda>Peso filipino</moneda>
@@ -112,49 +112,49 @@
       <sistema>República semipresidencialista</sistema>
       <superficie>2,381 millones</superficie>
       <moneda>Dinar argelino</moneda>
-      <idioma>Árabe</idioma>
+      <idioma>Arabe</idioma>
     </pais>
-    <pais nombre="Etiopía">
+    <pais nombre="Etiopia">
       <sistema>República parlamentaria federal</sistema>
       <superficie>1,104 millones</superficie>
-      <moneda>Birr etíope</moneda>
-      <idioma>Amhárico</idioma>
+      <moneda>Birr etiope</moneda>
+      <idioma>Amharico</idioma>
     </pais>
     <pais nombre="Nigeria">
       <sistema>República federal presidencial</sistema>
       <superficie>923768</superficie>
       <moneda>Naira</moneda>
-      <idioma>Inglés</idioma>
+      <idioma>Ingles</idioma>
     </pais>
     <pais nombre="Senegal">
       <sistema>República semipresidencialista</sistema>
       <superficie>196722</superficie>
       <moneda>Franco CFA de África Occidental</moneda>
-      <idioma>Francés</idioma>
+      <idioma>Frances</idioma>
     </pais>
     <pais nombre="Australia">
       <sistema>Monarquía constitucional federal</sistema>
       <superficie>7,741 millones</superficie>
-      <moneda>Dólar australiano</moneda>
-      <idioma>Inglés</idioma>
+      <moneda>Dolar australiano</moneda>
+      <idioma>Ingles</idioma>
     </pais>
     <pais nombre="Nueva Zelanda">
       <sistema>Monarquía constitucional federal</sistema>
       <superficie>268838</superficie>
-      <moneda>Dólar neozelandés</moneda>
-      <idioma>Inglés</idioma>
+      <moneda>Dolar neozelandes</moneda>
+      <idioma>Ingles</idioma>
     </pais>
     <pais nombre="Estados Federados de Micronesia">
       <sistema>República federal democrática</sistema>
       <superficie>702</superficie>
-      <moneda>Dólar estadounidense</moneda>
-      <idioma>Inglés</idioma>
+      <moneda>Dolar estadounidense</moneda>
+      <idioma>Ingles</idioma>
     </pais>
-    <pais nombre="Estado Independiente de Papúa Nueva Guinea">
+    <pais nombre="Estado Independiente de Papua Nueva Guinea">
       <sistema>Democracia constitucional parlamentaria</sistema>
       <superficie>462840</superficie>
       <moneda>Kina</moneda>
-      <idioma>Inglés</idioma>
+      <idioma>Ingles</idioma>
     </pais>
   </paises>
 </geografia>
