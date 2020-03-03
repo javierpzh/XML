@@ -9,3 +9,6 @@ def listar_informacion(lista1,lista2):
     for continente in lista1:
         cont=doc.xpath("//continentes/continente/@nombre")
         return cont
+
+def contar_informacion(lista2):
+    return len(lista2)
