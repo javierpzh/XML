@@ -12,3 +12,10 @@ def listar_informacion(lista1,lista2):
 
 def contar_informacion(lista2):
     return len(lista2)
+
+def buscar_informacion(lista2,cadena):
+    for pais in lista2:
+        if cadena in lista2:
+            sispol=doc.xpath('/geografia/paises/pais[@nombre="%s"]/sistema/text()' %(cadena))
+            idioma=doc.xpath('/geografia/paises/pais[@nombre="%s"]/idioma/text()' %(cadena))
+        return sispol,idioma
