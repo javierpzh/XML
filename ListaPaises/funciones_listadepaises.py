@@ -19,3 +19,9 @@ def buscar_informacion(lista2,cadena):
             sispol=doc.xpath('/geografia/paises/pais[@nombre="%s"]/sistema/text()' %(cadena))
             idioma=doc.xpath('/geografia/paises/pais[@nombre="%s"]/idioma/text()' %(cadena))
         return sispol,idioma
+
+def buscar_informacion_relacionada(lista3,cadena):
+    for idioma in lista3:
+        if cadena in lista3:
+            pais=doc.xpath('/geografia/paises/pais[idioma="%s"]/idioma/../@nombre' %(cadena))
+        return pais
