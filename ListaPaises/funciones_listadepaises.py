@@ -2,10 +2,9 @@ from lxml import etree
 
 def listar_informacion(doc):
     lista1=doc.xpath("//continentes/continente/@nombre")
-    lista2=doc.xpath("//continente/pais/text()")
     for continente in lista1:
         cont=doc.xpath("//continentes/continente/@nombre")
-        return cont
+    return cont
 
 def contar_informacion(doc):
     lista2=doc.xpath("//continente/pais/text()")
